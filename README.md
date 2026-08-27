@@ -1,10 +1,10 @@
-# Hey, I'm Ammumoh 👋
+# 👋 Hey, I'm Ammumoh
 
-### 💻 Software Developer | 🔐 Cybersecurity | 🤖 AI & Robotics
+### 💻 Software Developer • 🔐 Cybersecurity • 🧠 AI • 🤖 Robotics
 
 I'm a developer who enjoys **building, breaking, understanding, and securing systems**.
 
-I'm especially interested in the intersection of **cybersecurity, artificial intelligence, automation, and robotics**.
+I'm interested in the intersection of **Cybersecurity, Artificial Intelligence, Automation, Software Engineering, and Robotics**.
 
 I learn by building real projects, experimenting with new technologies, and sharing what I discover along the way.
 
@@ -12,93 +12,99 @@ I learn by building real projects, experimenting with new technologies, and shar
 
 ## 🔐 Cybersecurity
 
-My cybersecurity journey started with an interest in **penetration testing and understanding how systems can be secured**.
+I'm interested in understanding how systems work, how they fail, and how they can be secured.
 
-Currently exploring:
+**Currently exploring:**
 
-* 🛡️ Cybersecurity fundamentals
-* 🔎 Penetration testing
-* 🌐 Web application security
+* 🔎 Penetration Testing
+* 🌐 Web Application Security
+* 🛡️ Network Security
 * 🐧 Linux
-* 🔐 Secure software development
-* ⚙️ Security automation
+* 🔐 Secure Software Development
+* ⚙️ Security Automation
 
-> Build it. Break it. Understand it. Secure it.
+> **Build it. Break it. Understand it. Secure it.**
 
 ---
 
-## 🤖 AI & Robotics
+## 🧠 Artificial Intelligence
 
-I'm also exploring what happens when **software meets the physical world**.
+I'm exploring how AI can move beyond chat interfaces and become part of real-world systems.
 
-Currently experimenting with:
+**Interested in:**
 
-* 🤖 Robotics
-* 🧠 AI agents
+* 🤖 AI Agents
+* 🧠 Machine Learning
 * ⚙️ Automation
-* 🌍 Autonomous systems
-* 🔌 Embedded / connected devices
-
-I'm particularly interested in building systems where AI can interact with and control real-world machines.
+* 🌍 Autonomous Systems
+* 🔌 AI + Hardware
+* 🛠️ AI-powered applications
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🤖 Robotics
+
+I'm particularly interested in what happens when **software intelligence meets the physical world**.
+
+I'm exploring robotics, autonomous systems, and ways AI can interact with and control real-world machines.
+
+---
+
+## 🛠️ Tech Stack
 
 ### Languages
 
-`Python` `PHP` `JavaScript` `C++` `JAC`
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45" alt="PHP"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" alt="C++"/>
+</p>
 
-### Development
+### Frameworks & Development
 
-`Git` `GitHub` `Linux` `Node.js` `React`
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" alt="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" alt="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" alt="Linux"/>
+</p>
 
 ### Exploring
 
-`AI` `Machine Learning` `Cybersecurity` `Robotics` `Automation`
+`Cybersecurity` · `AI` · `AI Agents` · `Robotics` · `Automation` · `Open Source`
 
 ---
 
 ## 🚀 What I'm Building
 
-I'm constantly working on projects that help me turn theory into practical experience.
+I learn by turning ideas into working systems.
 
-Some areas I'm currently exploring:
+Currently interested in building:
 
-* 🧺 Software applications
-* 🤖 Robotics & autonomous systems
+* 🔐 Cybersecurity tools and experiments
 * 🧠 AI-powered applications
-* 🔐 Cybersecurity projects
-* 🌐 Web development
-* 🛠️ Open-source projects
+* 🤖 Robotics and autonomous systems
+* 🌐 Web applications
+* ⚙️ Automation systems
+* 🌍 Open-source projects
 
 ---
 
-## 🌱 Currently Learning
+## 🌱 Learning in Public
 
-I'm a big believer in **learning by doing**.
+This GitHub profile is a record of my technical journey.
 
-Right now I'm going deeper into:
+You'll find projects, experiments, prototypes, mistakes, fixes, and lessons learned.
 
-**Cybersecurity → AI → Robotics → Software Engineering → Open Source**
-
-The goal isn't to know everything.
-
-The goal is to become extremely good at **building things that actually work**.
-
----
-
-## 📈 My GitHub Journey
-
-This profile is a record of what I'm learning, building, breaking, fixing, and improving.
-
-Some projects will be polished.
+Some repositories will be polished.
 
 Others will be experiments.
 
-That's intentional.
+**That's intentional.**
 
-> **Every repository is evidence of something I learned.**
+> Every project is another step toward understanding how technology really works.
 
 ---
 
@@ -107,24 +113,34 @@ That's intentional.
 I'm interested in collaborating on projects involving:
 
 * 🔐 Cybersecurity
-* 🤖 Robotics
 * 🧠 Artificial Intelligence
-* 💻 Developer tools
-* 🌐 Open source software
+* 🤖 Robotics
+* 💻 Developer Tools
 * ⚙️ Automation
+* 🌐 Open Source
 
-If you're building something interesting, I'd love to learn from it and contribute where I can.
-
----
-
-## 📫 Connect With Me
-
-📧 **Email:** [mumoney6@gmail.com](mailto:mumoney6@gmail.com)
-
-🐙 **GitHub:** [@ammumoh](https://github.com/ammumoh)
+If you're building something interesting, I'm always interested in learning and contributing.
 
 ---
 
-### ⚡ Keep building. Keep breaking. Keep learning.
+## 📊 GitHub
 
-`Code → Experiment → Fail → Understand → Improve → Repeat`
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ammumoh&show_icons=true&theme=tokyonight&hide_border=true" alt="Ammumoh's GitHub Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ammumoh&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+---
+
+## 📫 Connect
+
+🐙 GitHub: [@ammumoh](https://github.com/ammumoh)
+
+---
+
+### ⚡ Build → Break → Learn → Secure → Repeat
+
+**Keep building. Keep questioning. Keep learning.**
