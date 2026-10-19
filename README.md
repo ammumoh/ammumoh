@@ -10,10 +10,6 @@ I learn by building real projects, experimenting with new technologies, and shar
 
 ---
 
-## 🔐 Cybersecurity
-
-I'm interested in understanding how systems work, how they fail, and how they can be secured.
-
 **Currently exploring:**
 
 * 🔎 Penetration Testing
@@ -77,49 +73,6 @@ I'm exploring robotics, autonomous systems, and ways AI can interact with and co
 
 ---
 
-## 🚀 What I'm Building
-
-I learn by turning ideas into working systems.
-
-Currently interested in building:
-
-* 🔐 Cybersecurity tools and experiments
-* 🧠 AI-powered applications
-* 🤖 Robotics and autonomous systems
-* 🌐 Web applications
-* ⚙️ Automation systems
-* 🌍 Open-source projects
-
----
-
-## 🌱 Learning in Public
-
-This GitHub profile is a record of my technical journey.
-
-You'll find projects, experiments, prototypes, mistakes, fixes, and lessons learned.
-
-Some repositories will be polished.
-
-Others will be experiments.
-
-**That's intentional.**
-
-> Every project is another step toward understanding how technology really works.
-
----
-
-## 🤝 Open Source
-
-I'm interested in collaborating on projects involving:
-
-* 🔐 Cybersecurity
-* 🧠 Artificial Intelligence
-* 🤖 Robotics
-* 💻 Developer Tools
-* ⚙️ Automation
-* 🌐 Open Source
-
-If you're building something interesting, I'm always interested in learning and contributing.
 
 ---
 
