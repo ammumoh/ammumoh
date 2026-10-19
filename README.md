@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Ammumoh
 
-### 💻 Software Developer • 🔐 Cybersecurity • 🧠 AI • 🤖 Robotics
+### 💻 Software Developer 
 
 I'm a developer who enjoys **building, breaking, understanding, and securing systems**.
 
